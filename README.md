@@ -16,6 +16,11 @@
 - **AI tools** — CV fit analysis & job-market search with LLMs
 - **Web apps** — civic, education and small-business sites for Kenya
 
+### Featured projects
+- [cv-coach](https://github.com/gikundaevertonk-sudo/cv-coach) — AI-powered CV fit analysis, PDF upload and job-market search
+- [General-Management-System](https://github.com/gikundaevertonk-sudo/General-Management-System) — desktop business management system (VB.NET)
+- [IQ-test-site](https://github.com/gikundaevertonk-sudo/IQ-test-site) — a simple site for taking an IQ test
+
 ### GitHub stats
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=gikundaevertonk-sudo&theme=tokyonight&hide_border=true" />
