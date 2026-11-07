@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Everton 👋</h1>
+<h1 align="center">Hi, I'm Everton</h1>
 <p align="center">Full-stack developer from Kenya · building business management systems, web apps & AI-powered tools</p>
 
 <p align="center">
@@ -6,17 +6,17 @@
   <img src="https://komarev.com/ghpvc/?username=gikundaevertonk-sudo&style=flat-square&color=blue" />
 </p>
 
-### 🛠️ Tech I work with
+### Tech I work with
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,react,nodejs,dotnet,vscode,git,github&perline=11" />
 </p>
 
-### 🚀 What I build
--  **Business management systems** — inventory, sales & multi-shop tools (VB.NET, web)
+### What I build
+- **Business management systems** — inventory, sales & multi-shop tools (VB.NET, web)
 - **AI tools** — CV fit analysis & job-market search with LLMs
-- 🌍 **Web apps** — civic, education and small-business sites for Kenya
+- **Web apps** — civic, education and small-business sites for Kenya
 
-### 📊 GitHub stats
+### GitHub stats
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=gikundaevertonk-sudo&theme=tokyonight&hide_border=true" />
 </p>
