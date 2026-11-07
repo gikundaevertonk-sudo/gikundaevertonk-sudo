@@ -12,17 +12,20 @@
 </p>
 
 ### 🚀 What I build
-- 🧾 **Business management systems** — inventory, sales & multi-shop tools (VB.NET, web)
-- 🤖 **AI tools** — CV fit analysis & job-market search with LLMs
+-  **Business management systems** — inventory, sales & multi-shop tools (VB.NET, web)
+- **AI tools** — CV fit analysis & job-market search with LLMs
 - 🌍 **Web apps** — civic, education and small-business sites for Kenya
 
 ### 📊 GitHub stats
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=gikundaevertonk-sudo&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gikundaevertonk-sudo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gikundaevertonk-sudo&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gikundaevertonk-sudo&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gikundaevertonk-sudo&theme=tokyonight" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gikundaevertonk-sudo&theme=tokyonight" />
 </p>
 
 <p align="center"><i>Contribution stats include work in private repositories.</i></p>
