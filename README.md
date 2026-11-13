@@ -8,7 +8,7 @@
 
 ### Tech I work with
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,react,nodejs,dotnet,vscode,git,github&perline=11" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,nodejs,dotnet,vscode,git,github&perline=11" />
 </p>
 
 ### What I build
